@@ -1,0 +1,12 @@
+body {
+    font-size: 15pt;
+}
+li {
+  font-size: 22px;
+}
+li::marker {
+  color: #04a96d;
+}
+a{
+  color: #02C27C
+}
